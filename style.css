@@ -158,6 +158,20 @@ footer p{
  background-image:linear-gradient(to left, #9670c7, #391b49, #785690);
 }
 
+
+@media screen and (min-width:350px) and (max-width:650px) {
+
+    img{
+        width: 150px;
+
+    }
+
+    p{
+        font-size: 14px;
+    }
+    
+}
+
 /* .paragrafo{
     display: none;
 } */
